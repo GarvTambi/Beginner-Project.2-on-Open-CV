@@ -1,1 +1,3 @@
-# Beginner- Project.2 on Open-CV
+# Beginner: Project-2 on Open-CV
+
+## Face Recognition
